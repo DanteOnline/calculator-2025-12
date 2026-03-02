@@ -1,5 +1,5 @@
 """sum"""
 
-def sum(a, b):
+def exponentiation(a, b):
     """function for exponantiation"""
     return  a ** b
