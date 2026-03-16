@@ -1,5 +1,5 @@
-"""multiplication"""
+"""Multiplication module"""
 
 def multiplication(a, b):
-    """function for multiplication"""
+    """Function for multiplication of two values"""
     return a * b
